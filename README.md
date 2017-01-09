@@ -1,5 +1,8 @@
 # TP1-php
 
+Pense à commit à chaque étape de ton travail qui est fonctionnel (exemple: commit creation MCD, commit creation class X)
+
+
 Créer un script en ligne de commande en PHP.
 Compétences mis en avant:
 
