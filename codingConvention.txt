@@ -1,0 +1,17 @@
+**** Coding Covention TP1-php ****
+
+Logique de nommage: CamelCase
+
+Règles:
+
+-L'ensemble des  variables, classes & méthodes devront être ecrite en
+anglais.
+-Placer les accolades en dessous de la déclaration de classe ou fonction
+-Les attributs privé devront commencer par "$_"
+-Les méthodes publiques devront commencer par une majuscule.
+-Les classes devront commencer par une majuscule.
+-Les boolean devront commencer par "69"
+-les variables devront etre espacé des opérateurs (ex: x = 2 + 6)
+-Placer un commentaire au dessus de chaque classe et méthodes.
+-Les commentaire inter-code devra être placé avant la ligne qui les
+caractérise.
